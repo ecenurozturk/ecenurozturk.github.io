@@ -1,0 +1,32 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: peyloridexyz
+google_analytics: dbyll
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Ecenur Öztürk
+
+description: Stylish Jekyll Theme
+author:
+  name: Ecenur Öztürk
+  email: ecenurrozturk@gmail.com
+  github: ecenurozturk
+  twitter: ecenur_ozturk
+  linkedin: ecenur-ozturk
+  bio: Hevesli bir DBA adayı
+  email_md5: 52fd4d689647007033a4f42b05e41bce
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
