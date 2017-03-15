@@ -9,10 +9,10 @@ baseurl: ''
 author:
   name: 'Ecenur Öztürk'
   email: ecenurrozturk@gmail.com
-  twitter_username: ecenurozturk
-  facebook_username: ecenurozturk
-  github_username:  ecenurozturk
-  linkedin_username:  joshgerdes
+  twitter_username: ecenur_ozturk
+  facebook_username: ecenur
+  github_username: ecenurozturk
+  linkedin_username: ecenur-öztürk-79b082a1
 
 defaults:
   -
