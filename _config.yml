@@ -1,32 +1,39 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Site settings
+title: Ecenur Öztürk
+description: Ruby on Rails Developer
+url: 'http://ecenurozturk.github.io'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-highlighter: pygments
-markdown: kramdown
-disqus: peyloridexyz
-google_analytics: dbyll
+author:
+  name: 'Ecenur Öztürk'
+  email: ecenurrozturk@gmail.com
+  twitter_username: ecenurozturk
+  facebook_username: ecenurozturk
+  github_username:  ecenurozturk
+  linkedin_username:  joshgerdes
 
 defaults:
   -
     scope:
-      path: "" # empty string for all files
+      path: ''
+      type: 'posts'
     values:
-      title: Ecenur Öztürk
+        layout: 'post'
 
-description: Stylish Jekyll Theme
-author:
-  name: Ecenur Öztürk
-  email: ecenurrozturk@gmail.com
-  github: ecenurozturk
-  twitter: ecenur_ozturk
-  linkedin: ecenur-ozturk
-  bio: Hevesli bir DBA adayı
-  email_md5: 52fd4d689647007033a4f42b05e41bce
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
 
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-BASE_PATH:
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
