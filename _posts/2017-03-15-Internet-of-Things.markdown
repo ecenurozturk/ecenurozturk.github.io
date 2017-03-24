@@ -7,7 +7,6 @@ tags:
   - tag
 published: true
 ---
-![iotbaslik.jpg](http://ecenurozturk.github.io/images/iotbaslik.jpg)
 > _Where the Web an the physical world will meet.   _**John Barret**_
 
 Bu kavram ilk defa 1999 yılında Kevin Ashton tarafından P&G şirketi için hazırladığı sunumda kullanılıyor.Sunulan sistem bugün “Internet of Things” kavramını ortaya çıkaran RFID teknolojisi ve sensörlere dayalı bir küresel sistem standardını oluşturuyor.Günümüzde ise IoT kavramı ortaya çıktığı günkü halinden çok daha geniş bir vizyona erişmiş durumda.
