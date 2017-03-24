@@ -1,6 +1,6 @@
 ---
 title: Internet of Things – Nesnelerin İnterneti
-date: {}
+date: 2017-02-20 15:04:23
 categories:
   - test
 tags:
