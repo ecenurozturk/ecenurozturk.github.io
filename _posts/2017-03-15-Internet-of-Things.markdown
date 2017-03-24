@@ -7,6 +7,7 @@ tags:
   - tag
 published: true
 ---
+![iotbaslik.jpg]({{site.baseurl}}/images/iotbaslik.jpg)
 > _Where the Web an the physical world will meet.   _**John Barret**_
 
 Bu kavram ilk defa 1999 yılında Kevin Ashton tarafından P&G şirketi için hazırladığı sunumda kullanılıyor.Sunulan sistem bugün “Internet of Things” kavramını ortaya çıkaran RFID teknolojisi ve sensörlere dayalı bir küresel sistem standardını oluşturuyor.Günümüzde ise IoT kavramı ortaya çıktığı günkü halinden çok daha geniş bir vizyona erişmiş durumda.
@@ -20,7 +21,7 @@ TEDxCIT'de konuşan Dr. Johan Barrett: "_Nesnelerin İnternet'i açısından, ne
 
 Hepimiz güzel ve konforlu hayatlar yaşamak istiyoruz ve internet of things‘in  algılama, iletme değerlendirme, birbirleri arasında iletilim kurabilme özellikleri ile bize takip edilebilir ve uzaktan kontol edilebilir sistem oluşturmaya olanak veriyor.Böylece gelecekte  bize daha güvenli, konforlu, pratik, rahat ve yönetilebilir bir yaşam vaad ediyor.
 
-
+![iotiki.png]({{site.baseurl}}/images/iotiki.png)
 
 Biz insanlar dünyayı beş duyu organımızla algılıyor ve değerlendiriyoruz.Akıllı cihazlar için ise bu durum sensör sayıları ile orantılı olarak elde edilen büyük  veri miktarlarına  ulaşıyor.
 
@@ -28,7 +29,7 @@ Akıllı telefonları ele alalım; nerede olduğunuzu, hareket edip etmediğiniz
 
 **Nesnelerin İnterneti Uygulama Alanları**
 
-![5#.jpg]({{site.baseurl}}/_posts/5#.jpg)
+![iotilk.jpg]({{site.baseurl}}/images/iotilk.jpg)
 
 
 -Çevresel koşulları takip ederek yetiştirdiğiniz bitkilerin büyümesine yardımcı olan akıllı bahçe sistemi.
