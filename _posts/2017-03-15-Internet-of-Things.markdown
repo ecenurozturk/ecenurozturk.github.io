@@ -1,6 +1,6 @@
 ---
 title: Internet of Things – Nesnelerin İnterneti
-date: {}
+date: 2017-02-20 15:04:23
 categories:
   - test
 tags:
@@ -10,13 +10,13 @@ published: true
 ## The Internet of Things - Nesnelerin İnterneti
 
 _Where the Web an the physical world will meet.   _**John Barret**_
- 
+
 Bu kavram ilk defa 1999 yılında Kevin Ashton tarafından P&G şirketi için hazırladığı sunumda kullanılıyor.Sunulan sistem bugün “Internet of Things” kavramını ortaya çıkaran RFID teknolojisi ve sensörlere dayalı bir küresel sistem standardını oluşturuyor.Günümüzde ise IoT kavramı ortaya çıktığı günkü halinden çok daha geniş bir vizyona erişmiş durumda.
 
 İnternet, hayatımızın büyük bir parçasını oluşturmanın yanında internetin neredeyse tamamını insanların üretttiği veriler, fotograflar, kayıtlar, kitaplar, videolar vb. oluşturuyor.Sonuçta bu veriler insanlarla ilgili olan, insanlar için ve yine insanların ürettiği verilerden oluşuyor.Bu da interneti  icat edilmiş en önemli dönüştürücü haline getiriyor.İnterneti hepimizin hayatına bir şekilde ulaşan  ve sürekli çalışan dijital bir kumaş fabrikası gibi düşündüğümüzde “Internet of People" dünyayı değiştirebilir diyebiliriz.
 Günümüzde internet sadece insanların iletişim kurması için değil nesneler arası bağ için de kullanılıyor. Biz de buna  “Internet of Things”  diyoruz.
 
-TEDxCIT'de konuşan Dr. Johan Barrett: "_Nesnelerin İnternet'i açısından, nesne kavramı oldukça geniş bir anlama sahiptir. Her türlü izleme cihazları, sensörler, biochipler veya erişim düzenekleri nesne olarak nitelendirilmektedir. Bir cihazın "akıllı" sayılabilmesi ve nesne olarak nitelendirilebilmesi için gerekli şartlar: Tekil bir isme sahip olması (unique id), bağlanılabilir olması ve bir sensörü olmasıdır. Bu sayede, akıllı nesne dünyanın herhangi bir yerinden erişilebilir ve kontrol edilebilir hale gelmektedir._" diyor. 
+TEDxCIT'de konuşan Dr. Johan Barrett: "_Nesnelerin İnternet'i açısından, nesne kavramı oldukça geniş bir anlama sahiptir. Her türlü izleme cihazları, sensörler, biochipler veya erişim düzenekleri nesne olarak nitelendirilmektedir. Bir cihazın "akıllı" sayılabilmesi ve nesne olarak nitelendirilebilmesi için gerekli şartlar: Tekil bir isme sahip olması (unique id), bağlanılabilir olması ve bir sensörü olmasıdır. Bu sayede, akıllı nesne dünyanın herhangi bir yerinden erişilebilir ve kontrol edilebilir hale gelmektedir._" diyor.
 
 **Peki ya siz neden önemsemelisiniz?**
 
@@ -65,6 +65,6 @@ tasarruf.
 https://www.youtube.com/watch?v=QaTIt1C5R-M
 
 **[3]**What is the Internet of Things? And why should you care? | Benson Hougland | TEDxTemecula
-https://www.youtube.com/watch?v=_AlcRoqS65E 
+https://www.youtube.com/watch?v=_AlcRoqS65E
 
 **[4]**http://www.iot.gen.tr/2016/06/23/akilli-sehir-akilli-tarimsiz-surdurulebilir-olmaz/
