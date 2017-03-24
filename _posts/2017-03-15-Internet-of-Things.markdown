@@ -18,7 +18,7 @@ TEDxCIT'de konuşan Dr. Johan Barrett: "_Nesnelerin İnternet'i açısından, ne
 
 **Peki ya siz neden önemsemelisiniz?**
 
-Hepimiz güzel ve konforlu hayatlar yaşamak istiyoruz ve internet of things‘in  algılama, iletme değerlendirme, birbirleri arasında iletilim kurabilme özellikleri ile bize takip edilebilir ve uzaktan kontol edilebilir sistem oluşturmaya olanak veriyor.Böylece gelecekte  bize daha güvenli, konforlu, pratik, rahat ve yönetilebilir bir yaşam vaad ediyor.
+Hepimiz güzel ve konforlu hayatlar yaşamak istiyoruz ve internet of things‘in  algılama, iletme, değerlendirme, birbirleri arasında iletişim kurabilme özellikleri sayesinde bize takip edilebilir ve uzaktan kontol edilebilir sistem oluşturmaya olanak veriyor.Böylece gelecekte  bize  güvenlik, konfor, pratiklik, rahatlık ve yönetilebilirlik açısından daha kazançlı bir yaşam vaad ediyor.
 
 ![iotiki.png](http://ecenurozturk.github.io/images/iotiki.png)
 
