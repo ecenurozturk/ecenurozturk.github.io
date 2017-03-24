@@ -1,15 +1,13 @@
 ---
 title: Internet of Things – Nesnelerin İnterneti
-date: 2017-02-20 15:04:23
+date: {}
 categories:
   - test
 tags:
   - tag
 published: true
 ---
-## The Internet of Things - Nesnelerin İnterneti
-
-_Where the Web an the physical world will meet.   _**John Barret**_
+> _Where the Web an the physical world will meet.   _**John Barret**_
 
 Bu kavram ilk defa 1999 yılında Kevin Ashton tarafından P&G şirketi için hazırladığı sunumda kullanılıyor.Sunulan sistem bugün “Internet of Things” kavramını ortaya çıkaran RFID teknolojisi ve sensörlere dayalı bir küresel sistem standardını oluşturuyor.Günümüzde ise IoT kavramı ortaya çıktığı günkü halinden çok daha geniş bir vizyona erişmiş durumda.
 
